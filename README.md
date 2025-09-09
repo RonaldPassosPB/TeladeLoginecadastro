@@ -1,0 +1,1 @@
+Projeto em Java ultilizando o Swing. Consiste em um projeto de tala de cadastramaento de login, onde pode cadastrar e efetuar login de forma simples e facil. Todo login cadastrado é salvo de maneira simples em um bloco de notas na pasta original do projeto, fazendo com que assim mesmo que voce saia do projeto o login cadastrado ainda continua salvo.
